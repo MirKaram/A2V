@@ -1,0 +1,2 @@
+rootProject.name='artghul_drama'
+include ':app'
